@@ -12,3 +12,7 @@ h1 {
 p {
     font-weight: bold;
 }
+
+#index {
+    text-align: center;
+}
