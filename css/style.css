@@ -4,8 +4,9 @@ h1 {
     text-align: center;
 }
 
-#original-link {
+.original-link {
     font-weight:bolder;
+    color: blue;
 }
 
 p {
