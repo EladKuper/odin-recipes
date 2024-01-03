@@ -4,6 +4,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: rgb(225, 0, 225);
+    background-color: rgba(0, 100, 250, 0.3);
+}
 .original-link {
     font-weight:bolder;
     color: blue;
