@@ -22,7 +22,22 @@ p {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 
+.container {
+    border: 1px dotted blue;
+    text-align: center;
+    padding: rgb(0, 0, 255);
+}
+
 #index {
     text-align: center;
+    border: 1px dotted red;
+    display: inline-block;
+    text-align: left;
+}
+
+li {
+    /*border: 1px dotted red;
+    width: auto;
+    margin: 0 auto;*/
 }
 
